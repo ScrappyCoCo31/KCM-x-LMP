@@ -374,7 +374,7 @@ section.courses .item .down-content p {min-height: 100px;}
 
 }
 @media screen and (max-width: 767px) {
-
+.content-show img {position:relative; top:19px;}
   .main-banner .caption h6 {
     font-weight: 500;
   }
